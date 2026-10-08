@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.*
+
+# FAISS
+FAISS_INDEX/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
